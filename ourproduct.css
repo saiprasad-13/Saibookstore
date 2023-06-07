@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, blue, red) ;
+}
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: magenta;
+    border: 1px solid #e9e9e9;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(rgb(165, 77, 77), rgb(165, 218, 165), rgb(38, 38, 142), .9);
+}
+
+h1{
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.book{
+    margin-bottom:20px ;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.book img{
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+.book h3{
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.book p{
+    margin-bottom: 0;
+}
